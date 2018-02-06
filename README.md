@@ -1,4 +1,4 @@
-<h1/>TableroDesarrollo
+# TableroDesarrollo
 <p align="center">
                                                                                                  
 <img src="https://static.kanbantool.com/seo-landing-page/kanban-board/kanban-board-2.png" alt="Lista de la Compra" width="600" height="300" data-canonical-src="https://static.kanbantool.com/seo-landing-page/kanban-board/kanban-board-2.png" style="max-width:100%;">
@@ -28,7 +28,8 @@ para el desarrollo de otras.</p>
   <li><a href= "https://trello.com/"> Trello </a> </li>
 </ul>
 
-<h1/>Pruebas
+# Pruebas
 <p> Por determinar </p>
 
-<h1/>Licencias
+# Licencias
+© 2018 Fravier
