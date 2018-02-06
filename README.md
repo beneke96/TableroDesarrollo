@@ -6,7 +6,7 @@
 </p>
 
 # Descripcion
-<p> La aplicacion sera diseñada y creada en Java con la ayuda del IDE IntelliJ principalmente desarrollada para escritorio pero
+<p> La aplicacion sera creada en Java con la ayuda del IDE IntelliJ, principalmente sera desarrollada para escritorio pero
   si es posible en el tiempo destinado tambien se portara a movil. Esta aplicacion se basara en el formato del tablero Kanban para el desarrollo de otras herramientas o aplicaciones en el futuro. </p>
 
 # Motivacion
@@ -25,7 +25,8 @@ para el desarrollo de otras.</p>
 
 # Ejemplos de uso
 <ul>
-  <li><a href= "https://trello.com/"> Trello </a> </li>
+  <li><a href= "https://trello.com/"> Trello </a> - Se tomara Trello como referencia </li>
+  <li><a href= "https://trello.com/b/yxoJrFgP/subnautica-development"> Subnautica </a> - Ejemplo de uso en un proyecto de desarrollo </li>
 </ul>
 
 # Pruebas
