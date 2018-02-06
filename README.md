@@ -5,11 +5,11 @@
 
 </p>
 
-<h1/>Descripcion
+# Descripcion
 <p> La aplicacion sera diseñada y creada en Java con la ayuda del IDE IntelliJ principalmente desarrollada para escritorio pero
   si es posible en el tiempo destinado tambien se portara a movil. Esta aplicacion se basara en el formato del tablero Kanban para el desarrollo de otras herramientas o aplicaciones en el futuro. </p>
 
-<h1/>Motivacion
+# Motivacion
 <p> La motivacion de este proyecto es principalmente el desarrollo de la actividad de Desarrollo de interfaces,
 para el ciclo Multiplataforma. Si se consigue el objetivo propuesto esta propia herramienta podria servir de utilidad
 para el desarrollo de otras.</p>
